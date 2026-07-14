@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "playlist_mock_1",
+    "name": "Taylor Swift Essentials",
+    "description": "The absolute best of Taylor Swift. Includes Cruel Summer, Style, Cardigan, Lover, and Shake It Off.",
+    "coverImage": "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=400&auto=format&fit=crop",
+    "songs": [
+      "song_22",
+      "song_25",
+      "song_28",
+      "song_30",
+      "song_31",
+      "song_35",
+      "song_38",
+      "song_40"
+    ],
+    "owner": "system",
+    "createdAt": "2026-07-14T07:25:49.957Z"
+  },
+  {
+    "_id": "playlist_mock_2",
+    "name": "Dua Lipa Dance Party",
+    "description": "High-tempo, energetic pop anthems by Dua Lipa. Hit play and start dancing!",
+    "coverImage": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=400&auto=format&fit=crop",
+    "songs": [
+      "song_21",
+      "song_24",
+      "song_27",
+      "song_32",
+      "song_34",
+      "song_37"
+    ],
+    "owner": "system",
+    "createdAt": "2026-07-14T07:25:49.957Z"
+  },
+  {
+    "_id": "playlist_mock_3",
+    "name": "Lana Del Rey Dreamscapes",
+    "description": "Melancholic pop, cinematic moods, and dark-dreamy tunes by Lana Del Rey.",
+    "coverImage": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?q=80&w=400&auto=format&fit=crop",
+    "songs": [
+      "song_23",
+      "song_26",
+      "song_29",
+      "song_33",
+      "song_36",
+      "song_39"
+    ],
+    "owner": "system",
+    "createdAt": "2026-07-14T07:25:49.957Z"
+  },
+  {
+    "_id": "playlist_mock_4",
+    "name": "Pop Divas Collab",
+    "description": "A super-mix compiling the greatest hits from Taylor Swift, Dua Lipa, and Lana Del Rey.",
+    "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=400&auto=format&fit=crop",
+    "songs": [
+      "song_21",
+      "song_22",
+      "song_23",
+      "song_25",
+      "song_26",
+      "song_28",
+      "song_31",
+      "song_32",
+      "song_33"
+    ],
+    "owner": "system",
+    "createdAt": "2026-07-14T07:25:49.957Z"
+  },
+  {
+    "_id": "playlist_mock_5",
+    "name": "Melodia Essentials",
+    "description": "Our handpicked catalog favorites. Includes lofi, chill waves, and pop hits.",
+    "coverImage": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=400&auto=format&fit=crop",
+    "songs": [
+      "song_1",
+      "song_3",
+      "song_7",
+      "song_9",
+      "song_12",
+      "song_15",
+      "song_19",
+      "song_22"
+    ],
+    "owner": "system",
+    "createdAt": "2026-07-14T07:25:49.957Z"
+  },
+  {
+    "_id": "playlist_1784015201630",
+    "coverImage": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?q=80&w=400&auto=format&fit=crop",
+    "songs": [
+      "song_1",
+      "song_2",
+      "song_13",
+      "song_14",
+      "song_19",
+      "song_20",
+      "song_30",
+      "song_40"
+    ],
+    "createdAt": "2026-07-14T07:46:41.630Z",
+    "name": "Chill Vibes Smart Mix",
+    "description": "AI-generated smart mix based on your preferences. Last updated on 14/7/2026.",
+    "owner": "user_admin"
+  }
+]

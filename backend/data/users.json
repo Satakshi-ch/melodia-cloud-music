@@ -1,0 +1,60 @@
+[
+  {
+    "_id": "user_admin",
+    "username": "admin",
+    "email": "admin@melodia.com",
+    "password": "adminpassword",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=250&auto=format&fit=crop",
+    "role": "admin",
+    "likedSongs": [
+      "song_1"
+    ],
+    "playlists": [
+      "playlist_mock_1",
+      "playlist_mock_2",
+      "playlist_mock_3",
+      "playlist_mock_4",
+      "playlist_mock_5",
+      "playlist_1784015201630"
+    ],
+    "listeningHistory": [
+      {
+        "_id": "history_1784015590713",
+        "song": "song_5",
+        "playedAt": "2026-07-14T07:53:10.713Z"
+      },
+      {
+        "_id": "history_1784015579737",
+        "song": "song_3",
+        "playedAt": "2026-07-14T07:52:59.737Z"
+      },
+      {
+        "_id": "history_1784015534176",
+        "song": "song_40",
+        "playedAt": "2026-07-14T07:52:14.176Z"
+      },
+      {
+        "_id": "history_1784015502128",
+        "song": "song_31",
+        "playedAt": "2026-07-14T07:51:42.128Z"
+      }
+    ],
+    "favoriteGenres": [
+      "Lofi"
+    ],
+    "createdAt": "2026-07-14T07:40:03.494Z"
+  },
+  {
+    "_id": "user_tester",
+    "username": "tester",
+    "email": "tester@melodia.com",
+    "password": "testpassword",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=250&auto=format&fit=crop",
+    "role": "user",
+    "likedSongs": [],
+    "playlists": [],
+    "listeningHistory": [],
+    "favoriteGenres": [],
+    "createdAt": "2026-07-14T07:40:03.496Z"
+  }
+]
